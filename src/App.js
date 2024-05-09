@@ -17,6 +17,8 @@ const initialToDoList = [
   { id: 4, status: true, title: 'Tarea finalizada' },
   { id: 5, status: false, title: 'Tarea por finalizar' },
   { id: 6, status: false, title: 'Comprar leche' },
+  { id: 7, status: false, title: 'Leer un libro' },
+  
 ];
 // =============================================================================
 
